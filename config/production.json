@@ -1,0 +1,12 @@
+{
+  "jwtSecret": "772cf7874879401e5ceec4d291a53b5f3617d5f6f29aee21a429b8c5f36bd1a0",
+  "protocol": "http",
+  "host": [
+    "rise2016-debate.herokuapp.com"
+  ],
+  "publicPort": 3000,
+  "mongoUrl": "mongodb://localhost/DemocracyOS-dev",
+  "locale": "en",
+  "organizationName": "Back to RISE 2016 Website",
+  "organizationUrl": "http://rise2016.eu"
+}

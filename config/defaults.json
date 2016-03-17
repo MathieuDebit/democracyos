@@ -1,7 +1,7 @@
 {
   "locale": "en",
   "protocol": "http",
-  "host": "http://rise2016-debate.herokuapp.com",
+  "host": ["rise2016-debate.herokuapp.com"],
   "publicPort": 3000,
   "mongoUrl": "mongodb://localhost/DemocracyOS-dev",
   "mongoUsersUrl": "",

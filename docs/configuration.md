@@ -285,7 +285,7 @@ Set this options to enable [Segment](https://segment.com/) tracking.
 
 #### **logo**
 * env: `LOGO`
-* default: `/boot/logo.png`
+* default: `/boot/rise-logo.png`
 
 URL of the logo to be used on the header.
 
@@ -327,7 +327,7 @@ Sender email to show on all email notifications.
 
 #### **headerBackgroundColor**
 * env: `HEADER_BACKGROUND_COLOR`
-* default: `#7d4489`
+* default: `#e7983e`
 
 Background color of the header.
 

@@ -35,8 +35,8 @@
     "url": "",
     "token": "",
     "mailer": {
-      "name": "The DemocracyOS Team",
-      "email": "no-reply@democracyos.org",
+      "name": "RISE 2016 Debate Team",
+      "email": "no-reply@debate.rise2016.eu",
       "service": "",
       "auth": {
         "user": "",
@@ -78,20 +78,20 @@
     "availableLocales"
   ],
   "socialshare": {
-    "siteName": "DemocracyOS",
-    "siteDescription": "DemocracyOS voting system",
+    "siteName": "RISE 2016 Debate",
+    "siteDescription": "Online debate for RISE 2016",
     "image": "https://2.gravatar.com/avatar/a8b9176bd0d042db078bf38500727671?d=https%3A%2F%2Fidenticons.github.com%2F14bae9f2564556f8eb23cc263a779f59.png&s=400",
-    "domain": "democracyos.org",
+    "domain": "rise2016.eu",
     "twitter": {
-      "username": "@democracyos"
+      "username": "@rise_2016"
     }
   },
   "logo": "/boot/rise-logo.png",
   "logoMobile": "/boot/logo-mobile.png",
   "favicon": "/boot/favicon.ico",
   "organizationName": "DemocracyOS on GitHub",
-  "organizationEmail": "no-reply@democracyos.org",
-  "organizationUrl": "https://github.com/DemocracyOS/app",
+  "organizationEmail": "no-reply@debate.rise2016.eu",
+  "organizationUrl": "http://rise2016.eu",
   "learnMoreUrl": "",
   "googleAnalyticsTrackingId": "",
   "rssEnabled": true,
